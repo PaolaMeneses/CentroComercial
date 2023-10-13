@@ -1,0 +1,7 @@
+C:\ProjectAplicaciones\CentroComercial\CentroComercial.Api\obj\Debug\net7.0\CentroComercial.Api.csproj.AssemblyReference.cache
+C:\ProjectAplicaciones\CentroComercial\CentroComercial.Api\obj\Debug\net7.0\CentroComercial.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectAplicaciones\CentroComercial\CentroComercial.Api\obj\Debug\net7.0\CentroComercial.Api.AssemblyInfoInputs.cache
+C:\ProjectAplicaciones\CentroComercial\CentroComercial.Api\obj\Debug\net7.0\CentroComercial.Api.AssemblyInfo.cs
+C:\ProjectAplicaciones\CentroComercial\CentroComercial.Api\obj\Debug\net7.0\CentroComercial.Api.csproj.CoreCompileInputs.cache
+C:\ProjectAplicaciones\CentroComercial\CentroComercial.Api\obj\Debug\net7.0\CentroComercial.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjectAplicaciones\CentroComercial\CentroComercial.Api\obj\Debug\net7.0\CentroComercial.Api.sourcelink.json

@@ -1,0 +1,5 @@
+C:\ProjectAplicaciones\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\CentroComercial.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectAplicaciones\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\CentroComercial.Shared.AssemblyInfoInputs.cache
+C:\ProjectAplicaciones\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\CentroComercial.Shared.AssemblyInfo.cs
+C:\ProjectAplicaciones\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\CentroComercial.Shared.csproj.CoreCompileInputs.cache
+C:\ProjectAplicaciones\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\CentroComercial.Shared.sourcelink.json
