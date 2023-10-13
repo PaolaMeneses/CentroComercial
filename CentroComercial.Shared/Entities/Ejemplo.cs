@@ -12,7 +12,7 @@ namespace CentroComercial.Shared.Entities
 		public int Id { get; set; }
 
 		[Required(ErrorMessage = "El documento es requerido")]
-		public int Documento { get; set; } = null;
+		public string Documento { get; set; } = null;
 
 		[Required(ErrorMessage = "El nombre es requerido")]
 		public string FirstName { get; set; } = null;

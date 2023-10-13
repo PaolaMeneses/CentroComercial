@@ -205,7 +205,7 @@
       "mscorlib.dll": "sha256-Xo3wdLenBZ41X73hGjkWTbEQZDKcQsnPFtlkePUxLY0=",
       "netstandard.dll": "sha256-qjqaAEP3hdLnU\/TnoCd8HaSa+0ruV1TpdaB2GUujGMw=",
       "System.Private.CoreLib.dll": "sha256-\/7uQ+eNo9u3H1mpgMko4D3tKZHeGRfsRjna0Dqsu62k=",
-      "CentroComercial.WEB.dll": "sha256-9aDPwbHF6neJpjoVy73EfFqrn3HVYnCV0fexp7piiuo="
+      "CentroComercial.WEB.dll": "sha256-7t+lHZk8XfZ5lJ5a0RCH+CeIQX4PFGnck\/VXM2PvzBk="
     },
     "extensions": null,
     "hash": null,
@@ -213,7 +213,7 @@
     "libraryInitializers": null,
     "libraryStartupModules": null,
     "pdb": {
-      "CentroComercial.WEB.pdb": "sha256-8U+lh4r0JvgHOQZ0VYkvA4Fh27aZZ1EIWcfCN1J9d20="
+      "CentroComercial.WEB.pdb": "sha256-ty77uLPr2fEh1PvcPpnSPeYAznvS6D0qp24DaUKhyRI="
     },
     "remoteSources": null,
     "runtime": {
