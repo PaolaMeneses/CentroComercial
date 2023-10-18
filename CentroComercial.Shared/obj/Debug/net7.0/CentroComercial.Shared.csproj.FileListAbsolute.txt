@@ -10,3 +10,14 @@ C:\ProjectAplicaciones\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\C
 C:\ProjectAplicaciones\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\refint\CentroComercial.Shared.dll
 C:\ProjectAplicaciones\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\CentroComercial.Shared.pdb
 C:\ProjectAplicaciones\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\ref\CentroComercial.Shared.dll
+C:\Users\mathe\Source\Repos\CentroComercial\CentroComercial.Shared\bin\Debug\net7.0\CentroComercial.Shared.deps.json
+C:\Users\mathe\Source\Repos\CentroComercial\CentroComercial.Shared\bin\Debug\net7.0\CentroComercial.Shared.dll
+C:\Users\mathe\Source\Repos\CentroComercial\CentroComercial.Shared\bin\Debug\net7.0\CentroComercial.Shared.pdb
+C:\Users\mathe\Source\Repos\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\CentroComercial.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Source\Repos\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\CentroComercial.Shared.AssemblyInfoInputs.cache
+C:\Users\mathe\Source\Repos\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\CentroComercial.Shared.AssemblyInfo.cs
+C:\Users\mathe\Source\Repos\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\CentroComercial.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Source\Repos\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\CentroComercial.Shared.dll
+C:\Users\mathe\Source\Repos\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\refint\CentroComercial.Shared.dll
+C:\Users\mathe\Source\Repos\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\CentroComercial.Shared.pdb
+C:\Users\mathe\Source\Repos\CentroComercial\CentroComercial.Shared\obj\Debug\net7.0\ref\CentroComercial.Shared.dll

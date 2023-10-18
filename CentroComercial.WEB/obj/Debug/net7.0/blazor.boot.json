@@ -2,16 +2,9 @@
   "cacheBootResources": true,
   "config": [ ],
   "debugBuild": true,
-  "debugLevel": -1,
-  "diagnosticTracing": null,
   "entryAssembly": "CentroComercial.WEB",
-  "environmentVariables": null,
-  "extensions": {
-    "blazor": { }
-  },
   "icuDataMode": 0,
   "linkerEnabled": false,
-  "pthreadPoolSize": null,
   "resources": {
     "assembly": {
       "Microsoft.AspNetCore.Authorization.dll": "sha256-P7\/HRwCqdk3q1MD7UtlAXMN\/E8gZRdzme6ESGZsXHNk=",
@@ -205,19 +198,16 @@
       "mscorlib.dll": "sha256-Xo3wdLenBZ41X73hGjkWTbEQZDKcQsnPFtlkePUxLY0=",
       "netstandard.dll": "sha256-qjqaAEP3hdLnU\/TnoCd8HaSa+0ruV1TpdaB2GUujGMw=",
       "System.Private.CoreLib.dll": "sha256-\/7uQ+eNo9u3H1mpgMko4D3tKZHeGRfsRjna0Dqsu62k=",
-      "CentroComercial.WEB.dll": "sha256-7t+lHZk8XfZ5lJ5a0RCH+CeIQX4PFGnck\/VXM2PvzBk="
+      "CentroComercial.WEB.dll": "sha256-Ldlr26fjkf0LFzez0ch0bsSfscx15jyk5ECUYryywKk="
     },
     "extensions": null,
-    "hash": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
-    "libraryStartupModules": null,
     "pdb": {
-      "CentroComercial.WEB.pdb": "sha256-ty77uLPr2fEh1PvcPpnSPeYAznvS6D0qp24DaUKhyRI="
+      "CentroComercial.WEB.pdb": "sha256-IKq5atatnaWN+0yZe3VHgJloARfFTWiZrjXcajAA19k="
     },
-    "remoteSources": null,
     "runtime": {
-      "dotnet.7.0.10.xrtoqt0lgv.js": "sha256-qJB30QURoyH3y3WyayHu6nMFIx2XNOkXCez7tagGpvE=",
+      "dotnet.7.0.10.tft965sm6a.js": "sha256-qJB30QURoyH3y3WyayHu6nMFIx2XNOkXCez7tagGpvE=",
       "dotnet.timezones.blat": "sha256-pf9chcB37Cf13KuuvScsozomnAUanMeCfvDr9Wqofh8=",
       "dotnet.wasm": "sha256-gdnUvePnfbvTJDGtaK1+TnCtuTiC5NZjlYZ9kgEpMO0=",
       "icudt.dat": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4=",
@@ -231,9 +221,6 @@
         "hash": "sha256-gdnUvePnfbvTJDGtaK1+TnCtuTiC5NZjlYZ9kgEpMO0="
       }
     },
-    "satelliteResources": null,
-    "vfs": null
-  },
-  "runtimeOptions": null,
-  "startupMemoryCache": null
+    "satelliteResources": null
+  }
 }
