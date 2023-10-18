@@ -7,13 +7,15 @@ namespace CentroComercial.API.Data
 	{
 		public DataContext(DbContextOptions<DataContext>options) : base(options) { }	
 
-		public DbSet<Ejemplo>Ejemplos { get; set; }
+		public DbSet<CComercial>CentrosComerciales { get; set; }
+        public DbSet<Tienda> Tiendas { get; set; }
 
-		protected override void OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
 			base.OnModelCreating(modelBuilder);
-			modelBuilder.Entity<Ejemplo>().HasIndex(c => c.FirstName).IsUnique();
-		}
+			modelBuilder.Entity<CComercial>().HasIndex(c => c.IdCentroComercial).IsUnique();
+            modelBuilder.Entity<Tienda>().HasIndex(c => c.IdTienda).IsUnique();
+        }
 	}
 
 }

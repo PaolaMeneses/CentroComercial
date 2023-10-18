@@ -10,6 +10,7 @@ namespace CentroComercial.Shared.Entities
     public class CComercial
 
     {
+        [Key]
         public int IdCentroComercial { get; set; }
 
         [Required(ErrorMessage = "El campo {0} es requerido")]

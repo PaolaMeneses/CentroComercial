@@ -24,7 +24,7 @@ namespace CentroComercial.API.Controllers
         public async Task<ActionResult> Get()
         {
 
-            return Ok(await _context.Centrocomerciales.ToListAsync());
+            return Ok(await _context.CentrosComerciales.ToListAsync());
 
 
         }
@@ -36,7 +36,7 @@ namespace CentroComercial.API.Controllers
 
             //200 Ok
 
-            var centrocomercial = await _context.Centrocomerciales.FirstOrDefaultAsync(x => x.IdCentroComercial == id);
+            var centrocomercial = await _context.CentrosComerciales.FirstOrDefaultAsync(x => x.IdCentroComercial == id);
 
             if (centrocomercial == null)
             {
@@ -76,7 +76,7 @@ namespace CentroComercial.API.Controllers
         {
 
 
-            var FilaAfectada = await _context.Centrocomerciales
+            var FilaAfectada = await _context.CentrosComerciales
                 .Where(x => x.IdCentroComercial == id)//5
                 .ExecuteDeleteAsync();
 
